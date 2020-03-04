@@ -1,0 +1,9 @@
+.active::after {
+    content: '';
+    background: rgb(179,135,92);
+    height: 5px;
+    width: 70%;
+    bottom: 0;
+    left: 15%;
+    position: absolute;
+}
